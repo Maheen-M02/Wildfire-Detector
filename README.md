@@ -35,4 +35,4 @@ To develop an AI model capable of detecting and classifying wildfire occurrences
 
 ---
 
-## 📁 Folder Structure
+
